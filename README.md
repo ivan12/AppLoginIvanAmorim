@@ -1,5 +1,5 @@
 
-#Teste App Login Ivan Amorim
+#App Login Ivan Amorim
 
 1) Baixe os arquivos do projeto no Repositório do GitHub.
 
