@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Ivan Amorim - Login</string>
+    <string name="hello_world">Bem Vindo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="blankstring" />
+    <string name="emptyString" />
+</resources>
